@@ -1,4 +1,4 @@
-#Introduction to Data Structure & Algorithm
+# Introduction to Data Structure & Algorithm
 
 Data Structure and Algorithm basically is about the science of how Data can be
 stored, structured and traversed. The larger the sample size of the data, the more
